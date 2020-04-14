@@ -18,8 +18,8 @@ function divide(a, b) {
 }
 
 function makeInt(n) {
-  parseInt("n", 10)
+  return parseInt("n", 10)
 }
  function preserveDecimal(string) {
-   parseFloat(`40.999393`)
+   return parseFloat(`string`)
 }
