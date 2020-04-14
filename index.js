@@ -18,7 +18,7 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  return n += 10
+  return n++
 }
   
 function makeInt(n) {
