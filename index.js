@@ -1,9 +1,19 @@
 var number = 10
 
-function add5() {
-  number += 5
+function add() {
+  number + 5
 }
 
-function divideBy3() {
-  number /= 3
+function subtract() {
+  number - 3
 }
+
+function multiply() {
+  number * 3
+}
+
+function divide() {
+  number / 3
+}
+
+  
