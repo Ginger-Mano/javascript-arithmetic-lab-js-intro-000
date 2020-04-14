@@ -2,19 +2,19 @@ var a = 10
 var b = 2
 
 function add(a, b) {
-  10 + 2
+  return a + b
 }
 
-function subtract() {
-  10 - 3
+function subtract(a, b) {
+  return a - b
 }
 
-function multiply() {
-  10 * 3
+function multiply(a, b) {
+  return a * b
 }
 
-function divide() {
-  10 / 2
+function divide(a, b) {
+  return a / b
 }
 
 function makeInt(n) {
