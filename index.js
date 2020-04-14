@@ -1,4 +1,4 @@
-var add = 10, 2
+var add = (10, 2)
 
 function add(a, b) {
   10 + 2
