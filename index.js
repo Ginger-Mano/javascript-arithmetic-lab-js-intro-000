@@ -1,7 +1,8 @@
-var = (10, 2)
+var a = 10
+var b = 2
 
-function add() {
-  10 + 5
+function add(a, b) {
+  10 + 2
 }
 
 function subtract() {
