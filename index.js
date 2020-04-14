@@ -13,5 +13,5 @@ function multiply() {
 }
 
 function divide() {
-  10 / 3
+  10 / 2
 }
