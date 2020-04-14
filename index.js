@@ -1,5 +1,3 @@
-var number = 10
-
 function add() {
   10 + 5
 }
@@ -22,4 +20,3 @@ function makeInt(n) {
  function preserveDecimal(string) {
    parseFloat(`40.999393`)
 }
-   
